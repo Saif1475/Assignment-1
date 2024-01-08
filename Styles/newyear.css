@@ -32,3 +32,115 @@ header{
     padding-right: 394px;
     padding-bottom: 177px;
 }
+
+.header2{
+    text-align: center;
+}
+
+.discount{
+    color: #F00;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 88px;
+    font-style:oblique;
+    font-weight: 700;
+}
+
+.About-discount{
+    color: #F00;
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 500;
+    border: none;
+    line-height: 0px;
+}
+.calagory{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    line-height: 5px;
+}
+main{
+    margin-top: 120px;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-bottom: 120;
+
+}
+.main1-1{
+    display: flex;
+    text-align: left;
+    background:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('../images/images/Vectorrr.png');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+.main1{
+    padding-top: 126px;
+    padding-right: 500px;
+    padding-left: 126px;
+    padding-bottom: 142px;
+}
+.invitation1{
+    padding-top: 60px;
+    padding-right: 140px;
+    padding-bottom: 60px;
+}
+.heading{
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+}
+.discription{
+    color: rgba(255, 255, 255, 0.80);
+    font-family:'Inter', sans-serif ;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.join{
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: transparent;
+    border: 0px;
+    line-height: 90px;
+    margin-left: 90px
+}
+.main2{
+    text-align: center;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin-top: 120px;
+    padding: 110px 385px;
+}
+
+.para{
+    color: #070211;
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+}
+.span1{
+    color: #F00;
+}
+.join1{
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #F00;
+    padding: 16px 32px;
+    border: none;
+    border-radius: 15px;
+}
