@@ -64,6 +64,7 @@ header{
     line-height: 5px;
 }
 main{
+    font-family: 'Inter', sans-serif;
     margin-top: 120px;
     margin-left: 140px;
     margin-right: 140px;
@@ -309,4 +310,48 @@ main{
     border: none;
     border-top-right-radius: 42px;
     border-bottom-right-radius: 42px;
+}
+footer{
+    margin-top: 120px;
+    background-color: #070211;
+    font-family: 'Inter', sans-serif;
+    padding-left: 140px;
+}
+.footer1{
+    display: flex;
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+.address{
+    padding-top: 120px;
+    padding-right: 1085px;
+}
+.copyright{
+    padding-top: 98px;
+    padding-bottom: 120px;
+}
+.footer-img{
+    text-align: center;
+    box-shadow: 2px #3a3a3a;
+    margin-top: 98px;
+}
+.contacts{
+    text-align: left;
+    padding-top:120px;
+    padding-right:200px;
+}
+.class-end{
+    display:flex;
+    padding-top: 98px;
+    padding-bottom: 120px;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
+.unsubscribe{
+    margin-left: 1315px;
+    margin-top: 100px;
 }
