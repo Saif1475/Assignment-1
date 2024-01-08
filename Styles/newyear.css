@@ -184,3 +184,77 @@ main{
     font-weight: 400;
     line-height: 32px;
 }
+.main4{
+    text-align: center;
+    margin-top: 60px;
+}
+.Functon{
+    color: #070211;
+    font-size: 24px;
+    font-weight: normal;
+    
+}
+#span-2{
+    color: #F00;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 72px;
+    font-weight: 900;
+    font-style: normal;
+}
+.sale{
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.main4-img{
+    margin-top: 60px;
+    display: flex;
+    background-image: url('../images/images/rectangle 2.png'),url('../images/images/rectangle 1.png');;
+    background-repeat:no-repeat;
+    background-position: bottom left,top right;
+    background-size:100% 25%,auto;
+}
+
+.image-4{
+    width: 40%;
+    height:40%;
+    padding-left: 150px;
+}
+.image-5{
+    width: 15%;
+    height: 15%;
+    margin-top: 130px;
+    margin-left: 360px;
+}
+.main5{
+    text-align: left;
+    margin-top: 120px;
+}
+.header1-main5{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+.header2-main5{
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-size: 48px;
+    font-weight: 900;
+}
+.details-main5{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.main5-image{
+    text-align: center;
+}
+.main5-img{
+    width: 30%;
+    height: 30%;
+    margin: 10px; 
+}
